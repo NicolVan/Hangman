@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 300px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    color: whitesmoke;
+    background-color: rgb(38, 122, 179);
+}
+button:hover{
+    background-color: rgb(129, 198, 238);
+
+}
